@@ -1,0 +1,9 @@
+{
+  "name": "jsbase",
+  "version": "1.0.0",
+  "description": "base fivem em javascript",
+  "main": "index.js",
+  "repository": "https://github.com/dluk16/jsbase.git",
+  "author": "LucianoEun <dluk16@hotmail.com>",
+  "license": "MIT"
+}
