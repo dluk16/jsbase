@@ -12,6 +12,7 @@ on('playerConnecting', (name, setKickReason, deferrals) => {
 
         for (let i = 0; i < GetNumPlayerIdentifiers(player); i++) {
             const identifier = GetPlayerIdentifier(player, i);
+            console.log(identifier)
 
             if (identifier.includes('steam:')) {
                 steamIdentifier = identifier;

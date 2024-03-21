@@ -7,7 +7,8 @@ version '1.0.0'
 
 --=========================================
 client_script {
-    'client/spawner.js'    
+    'client/spawner.js',
+    'client/veiculos.js'       
 }
 
 --=========================================
