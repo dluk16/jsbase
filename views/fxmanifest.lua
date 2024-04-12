@@ -8,7 +8,11 @@ version '1.0.0'
 --=========================================
 client_script {
     'client/spawner.js',
-    'client/veiculos.js'       
+    'client/veiculos.js', 
+    'client/chat.js',
+    'client/display.js',   
+    'client/posicao.js', 
+    'client/vestir.js',    
 }
 
 --=========================================
